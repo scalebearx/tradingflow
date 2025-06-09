@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1749361246152,
+      "tag": "0000_fast_randall_flagg",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1749438199952,
+      "tag": "0001_easy_kronos",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1749438672012,
+      "tag": "0002_material_black_queen",
+      "breakpoints": true
+    }
+  ]
+}

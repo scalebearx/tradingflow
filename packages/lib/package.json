@@ -1,0 +1,24 @@
+{
+  "name": "@tradingflow/lib",
+  "private": true,
+  "main": "./src/index.ts",
+  "scripts": {
+    "db:push": "drizzle-kit push",
+    "db:studio": "drizzle-kit studio",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "drizzle-kit migrate"
+  },
+  "dependencies": {
+    "@keyv/redis": "^4.4.0",
+    "binance": "^2.15.21",
+    "drizzle-orm": "^0.44.2",
+    "keyv": "^5.3.3",
+    "nanoid": "^5.1.5",
+    "nats": "^2.29.3",
+    "postgres": "^3.4.7"
+  },
+  "devDependencies": {
+    "bun-types": "^1.2.15",
+    "drizzle-kit": "^0.31.1"
+  }
+}

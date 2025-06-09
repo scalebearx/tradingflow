@@ -1,0 +1,8 @@
+{
+  "name": "tradingflow",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}

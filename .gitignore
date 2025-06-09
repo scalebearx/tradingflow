@@ -1,0 +1,15 @@
+# Global
+**/node_modules
+**/dist
+**/.cursor
+**/.env
+**/.DS_Store
+**/*.log
+
+# Next.js
+apps/web/.next
+apps/web/out
+apps/web/build
+apps/web/.vercel
+apps/web/*.tsbuildinfo
+apps/web/next-env.d.ts
